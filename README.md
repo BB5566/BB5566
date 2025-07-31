@@ -34,12 +34,12 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=BB5566&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats" />
 
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BB5566&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
 
 </td>
 </tr>
