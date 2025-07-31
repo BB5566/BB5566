@@ -24,7 +24,7 @@
 <div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
 
 ### **Software**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
 
 ## **📊 Analytics & Statistics**
 
