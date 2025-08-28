@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm 👋 Hi there! 你好，我是BOB!
+# Hi 👋, I'm BOB👋 Hi there! 你好，我是BOB!
 
 </div>
 
@@ -46,8 +46,3 @@
 </table>
 
 </div>
-
-
----
-<p align="center">This README was generated with ❤️ by <a href="https://github.com/abhijeetBhale/Readme-Generator" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Readme%20Generator-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Readme Generator" /></a></p>
-<p align="center">Developed by <b>Abhijeet Bhale</b></p>
