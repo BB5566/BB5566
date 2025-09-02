@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/BB5566/images/main/Main%20Title.gif" width="90%" alt="Bob Tsou - Portfolio" />
+  <img src="https://raw.githubusercontent.com/BB5566/BB5566/main/images/Main%20Title.gif" width="90%" alt="Bob Tsou - Portfolio" />
 </h1>
 
 <div align="center">
@@ -12,7 +12,7 @@
     <i><p>Starting from a background in marketing and graphic design, I have accumulated 7 years of experience in e-commerce. While managing inventory, I discovered how programming and AI could significantly boost efficiency, a realization that ignited my passion for coding. I am currently completing a PHP web design program and am eager to apply my skills. I am passionate about developing websites that merge a designer's aesthetic with a strong UI/UX perspective, drawing inspiration from my love for retro arcade games and visual arts. My goal is to become a cross-disciplinary engineer who writes quality code and builds exceptional user experiences.</p></i>
   </details>
   <br>
-  <img src="https://raw.githubusercontent.com/BB5566/images/main/Tagline.gif" width="90%" alt="From a Designer's Palette to a Developer's Screen." />
+  <img src="https://raw.githubusercontent.com/BB5566/BB5566/main/images/Tagline.gif" width="90%" alt="From a Designer's Palette to a Developer's Screen." />
 </div>
 
 ---
@@ -41,11 +41,15 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BB5566/BB5566/main/images/Gamepad.gif" width="50%" alt="gamepad gif" />
+</div>
+
 ---
 
 <h3 align="center">🚀 My Featured Projects — The Quest Log / 我的精選專案</h3>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BB5566/images/main/Project%20Banner.gif" width="90%" alt="Animated Project Banner" />
+  <img src="https://raw.githubusercontent.com/BB5566/BB5566/main/images/Project%20Banner.gif" width="90%" alt="Animated Project Banner" />
 </div>
 <br>
 
@@ -82,9 +86,6 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BB5566/images/main/Gamepad.gif" width="90%" alt="gamepad gif" />
-</div>
 
 ---
 
