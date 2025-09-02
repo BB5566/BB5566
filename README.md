@@ -100,8 +100,7 @@
 
 <h3 align="center">📬 Let's Connect! — Join the Party / 聯絡我</h3>
 <div align="center">
-  <a href="[您的LinkedIn連結]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://bb-made.com/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:[您的電子郵件信箱]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:hello@bb-made.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"></a>
 </div>
 <br>
