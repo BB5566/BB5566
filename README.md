@@ -1,48 +1,34 @@
 <div align="center">
-
-# Hi 👋, I'm BOB👋 Hi there! 你好，我是BOB!
-
+  <img src="https://example.com/your-pixel-avatar.gif" width="150" alt="Pixel Avatar">
+  <h1>Hey! I'm [您的姓名]</h1>
+  <h3>從平面設計到前端，打造兼具美感與實用的網頁體驗。</h3>
 </div>
 
 <div align="center">
-
-熱愛技術、持續自我挑戰。專注於前後端開發、與使用者體驗設計。Enjoy coding, sharing, and growing with the open-source community!
-
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3 Badge">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP Badge">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL Badge">
 </div>
 
-## **⚒️ Skills**
-### **Programming Languages**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://img.icons8.com/plasticine/400/oracle-pl-sql--v3.png" alt="PL/SQL" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+---
 
-### **Frontend Development**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+## 🕹️ 我的專案精選
 
-### **Database**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+### 🎮 選角風格作品集網站
+這是一個將我的設計與前端技能結合的專案，使用 Vue/React 搭配動畫效果，重現經典街機選角畫面。
+- **技術棧：** HTML, CSS, JavaScript, [前端框架]
+- **DEMO 連結：** [專案連結]
 
-### **Devops**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+### 🖥️ CRUD 後台系統
+一個功能完整的後台系統，展現我的後端開發能力。
+- **技術棧：** PHP, MySQL
+- **DEMO 連結：** [專案連結]
 
-### **Software**
-<div style="display: flex; flex-wrap: nowrap; gap: 16px; overflow-x: auto; align-items: center;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="60" height="60" style="vertical-align:middle; margin-right:0; margin-left:0;"/></div>
+---
 
-## **📊 Analytics & Statistics**
+### 📬 聯絡我
 
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=BB5566&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BB5566&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
-
-</td>
-</tr>
-</table>
-
-</div>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">]([LinkedIn連結])
+[<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white">]([作品集網站連結])
