@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://github.com/BB5566/images/blob/7813c8851a26f264c653e13d4475f41869bafbaa/Generated%20File%20September%2002%2C%202025%20-%202_53PM.gif" width="350" alt="Bob Tsou - Portfolio" />
+  <img src="https://raw.githubusercontent.com/BB5566/images/main/Generated%20File%20September%2002%2C%202025%20-%202_53PM.gif" width="350" alt="Bob Tsou - Portfolio" />
 </h1>
 <h3 align="center">
-  <img src="https://github.com/BB5566/images/blob/7813c8851a26f264c653e13d4475f41869bafbaa/Generated%20Image%20September%2002%2C%202025%20-%202_53PM.jpeg" width="280" alt="From a Designer's Palette to a Developer's Screen." />
+  <img src="https://raw.githubusercontent.com/BB5566/images/main/Generated%20Image%20September%2002%2C%202025%20-%202_53PM.jpeg" width="280" alt="From a Designer's Palette to a Developer's Screen." />
 </h3>
 
 ---
@@ -14,7 +14,7 @@
   <p>
     從行銷與平面設計的美編工作起步，我累積了 7 年的電商經驗。在負責庫存管理時，我發現程式與 AI 能大幅提升效率，這份體悟點燃了我對程式設計的熱情。目前我正就讀於泰山職訓局的 PHP 資料庫網頁設計課程，即將結業。我熱衷於結合設計師的美感與 UI/UX 觀點來開發網站，並從我對電玩與視覺藝術的喜好中汲取靈感。我的目標是成為一位既能寫出優質程式碼，又能打造出色使用者體驗的跨領域工程師。
   </p>
-  <img src="https://github.com/BB5566/images/blob/7813c8851a26f264c653e13d4475f41869bafbaa/Generated%20Image%20September%2002%2C%202025%20-%202_56PM.jpeg" width="200" alt="gamepad gif" />
+  <img src="https://raw.githubusercontent.com/BB5566/images/main/Generated%20File%20September%2002%2C%202025%20-%202_53PM.gif" width="200" alt="gamepad gif" />
   <p>
     當我不 coding 時，我喜歡探索復古街機遊戲，並從中尋找設計靈感。我的目標是成為一位能夠整合 UI/UX 與全端技術的跨領域工程師，打造既美觀又強大的應用程式。
   </p>
@@ -40,8 +40,8 @@
 
 <h3 align="center">🏆 My GitHub Stats — Player Data</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[您的GitHub使用者名稱]&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-trophies.vercel.app/?username=[您的GitHub使用者名稱]&theme=dark&no-frame=true" alt="Your GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BB5566&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
+  <img src="https://github-trophies.vercel.app/?username=BB5566&theme=dark&no-frame=true" alt="Your GitHub Trophies" />
 </div>
 
 ---
@@ -51,7 +51,7 @@
 <h3 align="center">🚀 My Featured Projects — The Quest Log</h3>
 <br>
 <div align="center">
-  <img src="https://github.com/BB5566/images/blob/25e5672bd3f3aa7cf8ce43b86551287dd19084c4/Generated%20Image%20September%2002%2C%202025%20-%203_03PM.jpeg" width="300" alt="Animated Project Banner" />
+  <img src="https://raw.githubusercontent.com/BB5566/images/main/Generated%20Image%20September%2002%2C%202025%20-%203_03PM.jpeg" width="300" alt="Animated Project Banner" />
 </div>
 <br>
 
