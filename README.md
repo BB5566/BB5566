@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://example.com/your-pixel-avatar.gif" width="150" alt="Pixel Avatar">
-  <h1>Hey! I'm [您的姓名]</h1>
+  <h1>Hey! I'm BOB </h1>
   <h3>從平面設計到前端，打造兼具美感與實用的網頁體驗。</h3>
 </div>
 
