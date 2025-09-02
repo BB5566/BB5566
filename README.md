@@ -18,7 +18,7 @@
 ---
 
 <h3 align="center">🕹️ My Skill Stack — Character Abilities / 我的技能</h3>
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td align="center">
       <strong>Frontend</strong><br>
