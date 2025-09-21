@@ -78,9 +78,9 @@
           <i><p>[Briefly describe your project here, explaining its features and purpose.]</p></i>
         </details>
         <br>
-        <p><strong>Tech Stack:</strong><br><code>PHP</code> <code>JavaScript</code>
-        <a href="https://bb-made.com/projects/flight-search/"><img src="https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" /></a>
-        <a href="https://github.com/BB5566/flight-search"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+        <p><strong>Tech Stack:</strong><br><code>PHP</code> <code>Laravel</code> <code>MySQL</code> <code>JavaScript</code> <code>Bootstrap</code></p>
+        <a href="https://bb-made.com/projects/MoodCanvas/"><img src="https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/BB5566/MoodCanvas"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
       </div>
     </td>
   </tr>
