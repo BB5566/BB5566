@@ -72,7 +72,7 @@
     <td width="50%" valign="top">
       <div align="center">
         <h4>🕹️ 心情日曆-AI情緒日記</h4>
-        <p>[AI 智慧圖文生成：深度整合多個生成式 AI 服務，使用者只需輸入日記內容，系統即可自動生成符合情境的 AI 插畫與心情短語。]</p>
+        <p>AI 智慧圖文生成：深度整合多個生成式 AI 服務，使用者只需輸入日記內容，系統即可自動生成符合情境的 AI 插畫與心情短語。</p>
         <details>
           <summary>🇬🇧 English Version</summary>
           <i><p>[Briefly describe your project here, explaining its features and purpose.]</p></i>
