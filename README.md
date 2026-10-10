@@ -5,11 +5,11 @@
 <div align="center">
   <h3 align="center">👨‍💻 About Me — My Origin Story / 關於我</h3>
   <p>
-    從行銷與平面設計的美編工作起步，我累積了 7 年的電商經驗。在負責庫存管理時，我發現程式與 AI 能大幅提升效率，這份體悟點燃了我對程式設計的熱情。目前我正於泰山職訓局的 PHP 網頁設計班進修，即將結業。我熱衷於結合設計師的美感與 UI/UX 觀點來開發網站，並從復古街機遊戲與視覺藝術中汲取靈感，目標是成為一位能夠打造出色使用者體驗的全端工程師。
+    從行銷與平面設計的美編工作起步，我累積了 7 年的電商經驗。在負責庫存管理時，我發現程式與 AI 能大幅提升效率，這份體悟點燃了我對程式設計的熱情。我在泰山職訓局的 PHP 網頁設計班結業後，目前任職於勁園科教。我熱衷於結合設計師的美感與 UI/UX 觀點來開發網站，並從復古街機遊戲與視覺藝術中汲取靈感，目標是成為一位能夠打造出色使用者體驗的全端工程師。
   </p>
   <details>
     <summary>🇬🇧 English Version</summary>
-    <i><p>Starting from a background in marketing and graphic design, I have accumulated 7 years of experience in e-commerce. While managing inventory, I discovered how programming and AI could significantly boost efficiency, a realization that ignited my passion for coding. I am currently completing a PHP web design program and am eager to apply my skills. I am passionate about developing websites that merge a designer's aesthetic with a strong UI/UX perspective, drawing inspiration from my love for retro arcade games and visual arts. My goal is to become a cross-disciplinary engineer who writes quality code and builds exceptional user experiences.</p></i>
+    <i><p>Starting from a background in marketing and graphic design, I have accumulated 7 years of experience in e-commerce. While managing inventory, I discovered how programming and AI could significantly boost efficiency, a realization that ignited my passion for coding. After completing a PHP web design program, I now work at 勁園科教, an education company in Taiwan. I am passionate about developing websites that merge a designer's aesthetic with a strong UI/UX perspective, drawing inspiration from my love for retro arcade games and visual arts. My goal is to become a cross-disciplinary engineer who writes quality code and builds exceptional user experiences.</p></i>
   </details>
   <br>
   <img src="https://raw.githubusercontent.com/BB5566/BB5566/main/images/Tagline.gif" width="90%" alt="From a Designer's Palette to a Developer's Screen." />
