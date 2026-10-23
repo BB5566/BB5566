@@ -5,11 +5,11 @@
 <div align="center">
   <h3 align="center">👨‍💻 About Me — My Origin Story / 關於我</h3>
   <p>
-    從行銷與平面設計的美編工作起步，我累積了 7 年的電商經驗。在負責庫存管理時，我發現程式與 AI 能大幅提升效率，這份體悟點燃了我對程式設計的熱情。完成泰山職訓局的 PHP 網頁設計班後，目前已正式投入軟體開發工作。我熱衷於結合設計師的美感與 UI/UX 觀點來開發網站，並從復古街機遊戲與視覺藝術中汲取靈感，目標是成為一位能夠打造出色使用者體驗的全端工程師。
+    從行銷與平面設計的美編工作起步，累積多年電商經驗；在負責庫存管理時發現程式與 AI 能大幅提升效率，因此轉職軟體開發。現在是前端工程師，獨立負責一個教育平台的前端主線（Vue 3 + .NET 8，台灣與中國兩套正式站），同時主導公司地端 AI 內容產線：自己定架構、定規則、做驗收，帶 AI coding agent 完成開發與維運。我把設計師的美感與 UI/UX 觀點帶進工程，目標是成為兼顧前端深度與 AI 應用的工程師。
   </p>
   <details>
     <summary>🇬🇧 English Version</summary>
-    <i><p>Starting from a background in marketing and graphic design, I have accumulated 7 years of experience in e-commerce. While managing inventory, I discovered how programming and AI could significantly boost efficiency, a realization that ignited my passion for coding. After completing a PHP web design program, I now work as a developer. I am passionate about developing websites that merge a designer's aesthetic with a strong UI/UX perspective, drawing inspiration from my love for retro arcade games and visual arts. My goal is to become a cross-disciplinary engineer who writes quality code and builds exceptional user experiences.</p></i>
+    <i><p>Starting from marketing and graphic design with years in e-commerce, I discovered while managing inventory how programming and AI boost efficiency, and switched to software. I am now a frontend engineer owning the frontend of an education platform (Vue 3 + .NET 8, production sites in Taiwan and China), and I lead the company's on-premise AI content pipeline: I set the architecture and rules, do the acceptance, and drive AI coding agents to build and operate it. I bring a designer's eye and UI/UX thinking into engineering, aiming to combine frontend depth with applied AI.</p></i>
   </details>
   <br>
   <img src="https://raw.githubusercontent.com/BB5566/BB5566/main/images/Tagline.gif" width="90%" alt="From a Designer's Palette to a Developer's Screen." />
@@ -22,11 +22,11 @@
   <tr>
     <td align="center">
       <strong>Frontend</strong><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,bootstrap,jquery" alt="frontend skills" />
+      <img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,vite,vitest,html,css,bootstrap" alt="frontend skills" />
     </td>
     <td align="center">
       <strong>Backend</strong><br>
-      <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="backend skills" />
+      <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,mysql,mongodb" alt="backend skills" />
     </td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@
     </td>
     <td align="center">
       <strong>Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode" alt="tools" />
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,python,vscode" alt="tools" />
     </td>
   </tr>
 </table>
@@ -66,6 +66,7 @@
         <br>
         <p><strong>Tech Stack:</strong><br><code>Vue 3</code> <code>TypeScript</code> <code>GSAP</code> <code>Three.js</code> <code>Laravel</code> <code>MySQL</code> <code>Docker</code></p>
         <a href="https://bb-made.com/"><img src="https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/BB5566/bb-portfolio"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -84,6 +85,20 @@
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h4>🍱 食在輔大</h4>
+        <p>輔大心園餐廳介紹網站：店家、菜單與位置一頁看完，手機優先的 RWD 設計，已上線。</p>
+        <details>
+          <summary>🇬🇧 English Version</summary>
+          <i><p>A mobile-first guide to the Xinyuan cafeteria at Fu Jen Catholic University: vendors, menus and locations on one page. Live.</p></i>
+        </details>
+        <br>
+        <p><strong>Tech Stack:</strong><br><code>React</code> <code>TypeScript</code> <code>Vite</code></p>
+        <a href="https://fju.bb-made.com/"><img src="https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://github.com/BB5566/eat-at-fju"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+      </div>
+    </td>
     <td width="50%" valign="top">
       <div align="center">
         <h4>🏀 泰山投籃機</h4>
