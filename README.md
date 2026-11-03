@@ -78,7 +78,7 @@
           <i><p>An AI mood diary: write a few lines about your day, and the app generates a matching illustration and a short mood phrase with generative AI.</p></i>
         </details>
         <br>
-        <p><strong>Tech Stack:</strong><br><code>PHP (MVC)</code> <code>MySQL</code> <code>JavaScript</code> <code>Replicate · Imagen 4</code> <code>Docker</code></p>
+        <p><strong>Tech Stack:</strong><br><code>PHP (MVC)</code> <code>MySQL</code> <code>JavaScript</code> <code>Replicate · FLUX Schnell</code> <code>Docker</code></p>
         <a href="https://bb-made.com/mood/"><img src="https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" /></a>
         <a href="https://github.com/BB5566/MoodCanvas"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
       </div>
