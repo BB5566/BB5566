@@ -101,6 +101,25 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
+        <h4>📦 stock-sync 多平台庫存同步</h4>
+        <p>多個電商平台共用同一份庫存時，用「庫存帳本＋平台轉接器」處理併發扣減、限流重試與冪等；沒有平台 API 也能用 mock 平台完整驗證，每個設計決定都有測試。</p>
+        <details>
+          <summary>🇬🇧 English Version</summary>
+          <i><p>Multi-platform inventory sync: a stock ledger plus platform adapters that handle concurrent reservations, rate-limit retries and idempotency, fully verifiable against mock platforms without any real platform API. Every design decision is covered by tests.</p></i>
+        </details>
+        <br>
+        <p><strong>Tech Stack:</strong><br><code>TypeScript</code> <code>Node.js</code> <code>SQLite</code> <code>node:test</code></p>
+        <a href="https://github.com/BB5566/stock-sync"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<h4 align="center">🎮 早期練習作</h4>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
         <h4>🏀 泰山投籃機</h4>
         <p>以夜市投籃機為靈感的網頁小遊戲，計時、計分與投籃動畫全部用原生 JavaScript 完成。</p>
         <p><strong>Tech Stack:</strong><br><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></p>
@@ -113,19 +132,16 @@
         <h4>🥋 雙人格鬥遊戲</h4>
         <p>Ken 對 Ryu 的雙人同機對戰，有血量、跳躍、波動拳與 CRT 掃描線特效。</p>
         <p><strong>Tech Stack:</strong><br><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></p>
-        <a href="https://bb5566.github.io/fight-game/"><img src="https://img.shields.io/badge/Play%20Now-FF6B6B?style=for-the-badge&logo=safari&logoColor=white" alt="Play" /></a>
         <a href="https://github.com/BB5566/fight-game"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" /></a>
       </div>
     </td>
   </tr>
 </table>
 
-
 ---
 
 <h3 align="center">🏆 My GitHub Stats — Player Data / GitHub 數據</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BB5566&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Your GitHub Stats" /><br>
   <img src="https://github-trophies.vercel.app/?username=BB5566&theme=dark&no-frame=true" alt="Your GitHub Trophies" />
 </div>
 
