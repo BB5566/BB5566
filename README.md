@@ -5,11 +5,11 @@
 <div align="center">
   <h3 align="center">👨‍💻 About Me — My Origin Story / 關於我</h3>
   <p>
-    從行銷與平面設計的美編工作起步，累積多年電商經驗；在負責庫存管理時發現程式與 AI 能大幅提升效率，因此轉職軟體開發。現在是前端工程師，獨立負責一個教育平台的前端主線（Vue 3 + .NET 8，台灣與中國兩套正式站），同時主導公司地端 AI 內容產線：自己定架構、定規則、做驗收，帶 AI coding agent 完成開發與維運。我把設計師的美感與 UI/UX 觀點帶進工程，目標是成為兼顧前端深度與 AI 應用的工程師。
+    實戰型 AI 應用工程師，具備約 6 年電商設計與行銷經驗，專攻中小企業 AI 工作流落地、防幻覺評測與內部自動化。現職主責服務 2,100+ 所學校的學習平台前端（Vue 3，並參與 .NET 8 後端整合），並在 2026/07 起一人從頭重建公司的地端 AI 內容產線：原本每月約 200 美元的雲端模型訂閱改為公司自有主機，國考試題自動轉題庫讓編輯免手打。我負責架構、規則、驗收與上線決策，開發大量使用 AI coding agent。
   </p>
   <details>
     <summary>🇬🇧 English Version</summary>
-    <i><p>Starting from marketing and graphic design with years in e-commerce, I discovered while managing inventory how programming and AI boost efficiency, and switched to software. I am now a frontend engineer owning the frontend of an education platform (Vue 3 + .NET 8, production sites in Taiwan and China), and I lead the company's on-premise AI content pipeline: I set the architecture and rules, do the acceptance, and drive AI coding agents to build and operate it. I bring a designer's eye and UI/UX thinking into engineering, aiming to combine frontend depth with applied AI.</p></i>
+    <i><p>An applied AI engineer with about 6 years in e-commerce design and marketing, focused on bringing AI workflows into small and mid-sized companies, hallucination-proof evaluation, and internal automation. I own the frontend of a learning platform serving 2,100+ schools (Vue 3, with .NET 8 backend integration), and since 2026/07 I have rebuilt the company's on-premise AI content pipeline on my own: a ~US$200/month cloud model subscription moved to the company's own hardware, and exam questions are converted into question banks automatically so editors no longer retype them. I own the architecture, rules, acceptance and release decisions, and build heavily with AI coding agents.</p></i>
   </details>
   <br>
   <img src="https://raw.githubusercontent.com/BB5566/BB5566/main/images/Tagline.gif" width="90%" alt="From a Designer's Palette to a Developer's Screen." />
