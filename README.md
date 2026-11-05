@@ -5,11 +5,11 @@
 <div align="center">
   <h3 align="center">👨‍💻 About Me — My Origin Story / 關於我</h3>
   <p>
-    從行銷與平面設計的美編工作起步，累積多年電商經驗；在負責庫存管理時發現程式與 AI 能大幅提升效率，因此轉職軟體開發。現在是前端工程師，獨立負責一個教育平台的前端主線（Vue 3 + .NET 8，台灣與中國兩套正式站），同時主導公司地端 AI 內容產線：自己定架構、定規則、做驗收，帶 AI coding agent 完成開發與維運。我把設計師的美感與 UI/UX 觀點帶進工程，目標是成為兼顧前端深度與 AI 應用的工程師。
+    從行銷與平面設計的美編工作起步，累積多年電商經驗；在負責庫存管理時發現程式與 AI 能大幅提升效率，因此轉職軟體開發。現在是前端工程師，獨立負責一個教育平台的前端主線（Vue 3，串接 .NET 8 API，台灣與中國兩套正式站）；2026/07 起一人從頭重建公司的地端 AI 內容產線（AI 模型全部本機推論）：自己定架構、定規則、做驗收，帶 AI coding agent 完成開發與維運。我把設計師的美感與 UI/UX 觀點帶進工程，目標是成為兼顧前端深度與 AI 應用的工程師。
   </p>
   <details>
     <summary>🇬🇧 English Version</summary>
-    <i><p>Starting from marketing and graphic design with years in e-commerce, I discovered while managing inventory how programming and AI boost efficiency, and switched to software. I am now a frontend engineer owning the frontend of an education platform (Vue 3 + .NET 8, production sites in Taiwan and China), and I lead the company's on-premise AI content pipeline: I set the architecture and rules, do the acceptance, and drive AI coding agents to build and operate it. I bring a designer's eye and UI/UX thinking into engineering, aiming to combine frontend depth with applied AI.</p></i>
+    <i><p>Starting from marketing and graphic design with years in e-commerce, I discovered while managing inventory how programming and AI boost efficiency, and switched to software. I am now a frontend engineer owning the frontend of an education platform (Vue 3 on a .NET 8 API, production sites in Taiwan and China). Since July 2026 I have rebuilt the company's local AI content pipeline from scratch on my own (all models run on in-house machines): I set the architecture and rules, do the acceptance, and drive AI coding agents to build and operate it. I bring a designer's eye and UI/UX thinking into engineering, aiming to combine frontend depth with applied AI.</p></i>
   </details>
   <br>
   <img src="https://raw.githubusercontent.com/BB5566/BB5566/main/images/Tagline.gif" width="90%" alt="From a Designer's Palette to a Developer's Screen." />
@@ -25,8 +25,8 @@
       <img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,vite,vitest,html,css,bootstrap" alt="frontend skills" />
     </td>
     <td align="center">
-      <strong>Backend</strong><br>
-      <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel,mysql,mongodb" alt="backend skills" />
+      <strong>Backend（AI 協作）</strong><br>
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="backend skills" />
     </td>
   </tr>
   <tr>
@@ -36,7 +36,7 @@
     </td>
     <td align="center">
       <strong>Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,python,vscode" alt="tools" />
+      <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,vscode" alt="tools" />
     </td>
   </tr>
 </table>
@@ -140,12 +140,6 @@
 
 ---
 
-<h3 align="center">🏆 My GitHub Stats — Player Data / GitHub 數據</h3>
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=BB5566&theme=dark&no-frame=true" alt="Your GitHub Trophies" />
-</div>
-
----
 
 <h3 align="center">📬 Let's Connect! — Join the Party / 聯絡我</h3>
 <div align="center">
