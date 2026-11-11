@@ -1,5 +1,5 @@
 <h1 align="center">Bob Tsou</h1>
-<p align="center"><strong>前端工程師（Vue 3 × TypeScript）・地端 AI 內容產線負責人</strong></p>
+<p align="center"><strong>前端工程師（Vue 3 × TypeScript）・一人重建地端 AI 內容產線</strong></p>
 <p align="center">
   <a href="https://bb-made.com/"><img src="https://img.shields.io/badge/作品集-bb--made.com-E4572E?style=flat-square" alt="作品集"></a>
   <a href="https://bb-made.com/resume.pdf"><img src="https://img.shields.io/badge/履歷-PDF-15161A?style=flat-square" alt="履歷 PDF"></a>
