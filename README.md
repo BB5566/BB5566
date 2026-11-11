@@ -11,18 +11,18 @@
 <h3>關於我</h3>
 
 - **團隊唯一前端**：負責教育平台前端主線（Vue 3 monorepo，串 .NET 8 API），台灣與中國兩套正式站，平台服務 2,100+ 所學校。
-- **效能**：學習平台首頁進站下載 2 MB→79 KB（本機量測）；打字測驗頁單頁少傳 2.4 MB。
+- **效能**：官網首頁讀取的資料約 2 MB→79 KB（本機量測）；打字測驗頁單頁少傳 2.4 MB。
 - **地端 AI 內容產線**：2026/07 起一人重建與維運，模型推論全在公司內；改圖時間 66 秒→約 9 秒（測試量測）。
-- **怎麼用 AI 寫程式**：以 AI coding 工具（Claude Code）為主力，規格、架構、測試與程式審查由我主導。
+- **怎麼用 AI 寫程式**：以 AI coding 工具（Claude Code）為主力，前端與 AI 產線的規格、架構、測試與程式審查由我主導。
 - **背景**：約 6 年電商設計與行銷，2025/10 轉前端；設計眼光和商業目標一起帶進工程。
 
 <details>
   <summary>English</summary>
 
 - **Sole frontend engineer** on an education platform (Vue 3 monorepo on a .NET 8 API), production sites in Taiwan and China, serving 2,100+ schools.
-- **Performance**: cut the learning-platform home page's initial download from 2 MB to 79 KB (local measurement); 2.4 MB less per typing-test page.
+- **Performance**: cut the data the corporate homepage fetches from about 2 MB to 79 KB (local measurement); 2.4 MB less per typing-test page.
 - **On-prem AI content pipeline**: rebuilt and run it on my own since July 2026, with all model inference inside the company; image-edit time 66 s → ~9 s (test measurement).
-- **How I build with AI**: AI coding tools (Claude Code) do most of the typing; I own the specs, architecture, tests and code review.
+- **How I build with AI**: AI coding tools (Claude Code) do most of the typing; I own the specs, architecture, tests and code review for the frontend and the AI pipeline.
 - **Background**: ~6 years in e-commerce design and marketing before moving to frontend in October 2025.
 
 </details>
@@ -61,7 +61,7 @@
   <tr>
     <td width="50%" valign="top">
       <h4>bb-made.com 作品集</h4>
-      <p>「印刷打樣」風格的單頁作品集：精選作品照「問題→做法→結果」寫，附可親手操作的 AI 產線示範與壓縮前後對照；另有桌面作業系統風格的互動版 /os。內容正本以程式碼管理，合併 PR 即上線；Docker 自架在 NAS，經 Cloudflare Tunnel 對外，CI 跑 Lint、型別檢查、Vitest 與 Lighthouse（手機效能 88、無障礙 100）。</p>
+      <p>「印刷打樣」風格的單頁作品集：精選作品照「問題→做法→結果」寫，附可親手操作的 AI 產線示範與壓縮前後對照；另有桌面作業系統風格的互動版 /os。內容正本以程式碼管理，合併 PR 即上線；Docker 自架在 NAS，經 Cloudflare Tunnel 對外，CI 跑 Lint、型別檢查、Vitest 與 Lighthouse（手機效能 89、無障礙 100）。</p>
       <p><code>Vue 3</code> <code>TypeScript</code> <code>GSAP</code> <code>Three.js</code> <code>Laravel 12</code> <code>Docker</code></p>
       <a href="https://bb-made.com/">網站</a> · <a href="https://github.com/BB5566/bb-portfolio">原始碼</a>
     </td>
@@ -69,7 +69,7 @@
       <h4>我怎麼審 AI 寫的程式</h4>
       <p>AI 說「完成了、測過了」不代表真的做了。動手前先訂紅線，寫完再過四道關：機器先擋、換一個模型審、看執行紀錄不看說法、數字上線前重量。這個作品集 AI 分支合併 59 個 PR（截至 2026/11/07），合併紀錄裡沒有退版。</p>
       <p><code>Claude Code</code> <code>GitHub Actions</code> <code>Vitest</code></p>
-      <a href="https://bb-made.com/#works">看做法</a>
+      <a href="https://bb-made.com/projects/27">看做法</a>
     </td>
   </tr>
   <tr>
